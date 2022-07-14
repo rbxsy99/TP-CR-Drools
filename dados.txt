@@ -1,0 +1,10 @@
+Rui
+Joao,09/06/2022,baixas,nao,nao
+Pedro,22/06/2022,baixas,nao,nao
+Carlos,15/06/2022,baixas,sim,nao
+Maria,02/06/2022,baixas,nao,sim
+Joana,20/06/2022,baixas,sim,sim
+Rute,17/04/2022,altas,nao,nao
+Olivia,22/09/2022,altas,sim,nao
+Rodrigo,01/07/2022,altas,nao,sim
+Joaquim,10/07/2022,altas,sim,sim

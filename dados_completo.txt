@@ -1,0 +1,17 @@
+Rui
+Pedro,22/09/2022,baixas,nao,nao
+Carlos,15/07/2022,baixas,sim,nao
+Maria,15/07/2022,baixas,nao,sim
+Joana,20/06/2022,baixas,sim,sim
+Rute,17/09/2022,altas,nao,nao
+Olivia,22/09/2022,altas,sim,nao
+Rodrigo,01/07/2023,altas,nao,sim
+Joaquim,10/07/2023,altas,sim,sim
+Manuela,22/08/2022,baixas,nao,nao
+Fabio,15/06/2022,baixas,sim,nao
+Mauro,16/06/2022,baixas,nao,sim
+Angela,20/06/2022,baixas,sim,sim
+Catia,17/09/2022,altas,nao,nao
+Jose,22/09/2022,altas,sim,nao
+Manuel,01/07/2022,altas,nao,sim
+Afonso,10/07/2022,altas,sim,sim
